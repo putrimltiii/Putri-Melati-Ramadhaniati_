@@ -57,9 +57,9 @@ Flowchart:
 
 6. fungsi cari_terbesar_dari_n() dipanggil untuk menjalankan semua proses yang telah dijelaskan.
    
-7. ![2  run codingan](https://github.com/user-attachments/assets/e5672e8b-446b-4776-b168-dae2f075af1b)
+![2  run codingan](https://github.com/user-attachments/assets/e5672e8b-446b-4776-b168-dae2f075af1b)
 
-8. Hasil Output: Setelah semua bilangan dimasukkan (5, 3, 10, 0, 7). Nilai terbesar adalah 10, dan karena bilangan yang dimasukkan adalah tipe float, maka hasilnya ditampilkan sebagai 10.0.
+Hasil Output: Setelah semua bilangan dimasukkan (5, 3, 10, 0, 7). Nilai terbesar adalah 10, dan karena bilangan yang dimasukkan adalah tipe float, maka hasilnya ditampilkan sebagai 10.0.
 
 Flowchart:
 
