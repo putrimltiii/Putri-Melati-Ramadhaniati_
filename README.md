@@ -53,8 +53,12 @@ Output yang dihasilkan, yaitu "(c) adalah bilangan terbesar", adalah hasil yang 
 
 6. fungsi cari_terbesar_dari_n() dipanggil untuk menjalankan semua proses yang telah dijelaskan.
    
-8. ![2  run codingan](https://github.com/user-attachments/assets/e5672e8b-446b-4776-b168-dae2f075af1b)
+7. ![2  run codingan](https://github.com/user-attachments/assets/e5672e8b-446b-4776-b168-dae2f075af1b)
 
-9. Hasil Output: Setelah semua bilangan dimasukkan (5, 3, 10, 0, 7). Nilai terbesar adalah 10, dan karena bilangan yang dimasukkan adalah tipe float, maka hasilnya ditampilkan sebagai 10.0.
+8. Hasil Output: Setelah semua bilangan dimasukkan (5, 3, 10, 0, 7). Nilai terbesar adalah 10, dan karena bilangan yang dimasukkan adalah tipe float, maka hasilnya ditampilkan sebagai 10.0.
+
+Flowchart:
+
+![WhatsApp Image 2024-10-27 at 08 27 40_625fd02e](https://github.com/user-attachments/assets/9bb050e6-2527-4cd2-9a0a-4353f54ce7b0)
 
 
