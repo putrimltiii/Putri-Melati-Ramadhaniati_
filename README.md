@@ -30,3 +30,25 @@ Oleh karena itu, C (2005) adalah bilangan terbesar di antara ketiga bilangan yan
 Output yang dihasilkan, yaitu "(c) adalah bilangan terbesar", adalah hasil yang benar dan sesuai dengan logika yang diterapkan dalam kode tersebut. Program berhasil mengidentifikasi bilangan terbesar dari ketiga bilangan yang diberikan.
 
 # 2.) Buat codingan dari flowchart yang menentukan bilangan terbesar dari N bilangan yang diinputkan. untuk menentukan jumlah N, berikan masukkan angka 0
+![2 codingan](https://github.com/user-attachments/assets/5e42bc30-dc4b-4102-9ebc-4b7b4006607a)
+
+1. Inisialisasi Variabel:
+   
+   Menginisialisasi variabel terbesar dengan nilai negatif tak terhingga (-inf). Ini dilakukan agar setiap bilangan yang dimasukkan ke dalam fungsi dapat dibandingkan dan, jika lebih besar, akan menggantikan        nilai terbesar.
+   
+2. Input Jumlah Bilangan:
+   
+   Masukkan jumlah bilangan yang ingin dimasukkan. Jika pengguna memasukkan 0, maka fungsi akan berhenti dan tidak ada bilangan yang akan diproses.
+
+3. Pengecekan Input Awal:
+
+   Jika pengguna memasukkan 0, maka fungsi akan mencetak pesan bahwa tidak ada bilangan yang dimasukkan dan mengakhiri eksekusi fungsi dengan return.
+
+4. Perumusan dan Perbandingan:
+
+   Di dalam loop for, fungsi meminta pengguna untuk memasukkan n bilangan satu per satu. Setiap bilangan yang dimasukkan akan dibandingkan dengan nilai terbesar. Jika bilangan yang dimasukkan lebih besar dari       terbesar, maka nilai terbesar akan diperbarui dengan bilangan yang baru dimasukkan.
+
+5. Setelah loop selesai, fungsi akan mencetak bilangan terbesar yang ditemukan selama proses input.
+
+6. fungsi cari_terbesar_dari_n() dipanggil untuk menjalankan semua proses yang telah dijelaskan di atas.
+   
