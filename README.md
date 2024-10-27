@@ -1,4 +1,4 @@
-# Praktikum 2 Putri Melati R
+# Praktikum Putri Melati R
 # 1). Buat codingan dari Flowchart yang menentukan bilangan terbesar dari 3 bilangan yang diinputkan 
 
 ![1  codingan 3 bilangan](https://github.com/user-attachments/assets/8e12eb17-1b3e-4bb2-a107-75050c85a356)
