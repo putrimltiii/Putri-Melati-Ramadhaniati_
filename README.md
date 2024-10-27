@@ -28,3 +28,5 @@ B (10) tidak lebih besar dari C (2005).
 Oleh karena itu, C (2005) adalah bilangan terbesar di antara ketiga bilangan yang diinputkan.
 
 Output yang dihasilkan, yaitu "(c) adalah bilangan terbesar", adalah hasil yang benar dan sesuai dengan logika yang diterapkan dalam kode tersebut. Program berhasil mengidentifikasi bilangan terbesar dari ketiga bilangan yang diberikan.
+
+# 2.) Buat codingan dari flowchart yang menentukan bilangan terbesar dari N bilangan yang diinputkan. untuk menentukan jumlah N, berikan masukkan angka 0
