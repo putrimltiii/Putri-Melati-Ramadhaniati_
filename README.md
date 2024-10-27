@@ -29,6 +29,10 @@ Oleh karena itu, C (2005) adalah bilangan terbesar di antara ketiga bilangan yan
 
 Output yang dihasilkan, yaitu "(c) adalah bilangan terbesar", adalah hasil yang benar dan sesuai dengan logika yang diterapkan dalam kode tersebut. Program berhasil mengidentifikasi bilangan terbesar dari ketiga bilangan yang diberikan.
 
+Flowchart:
+
+![WhatsApp Image 2024-10-27 at 08 27 40_625fd02e](https://github.com/user-attachments/assets/6e209b2d-f0a7-4f4d-bebd-6b4d72aee6f0)
+
 # 2.) Buat codingan dari flowchart yang menentukan bilangan terbesar dari N bilangan yang diinputkan. untuk menentukan jumlah N, berikan masukkan angka 0
 
 ![2 codingan](https://github.com/user-attachments/assets/5e42bc30-dc4b-4102-9ebc-4b7b4006607a)
